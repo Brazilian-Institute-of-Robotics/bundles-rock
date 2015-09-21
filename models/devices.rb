@@ -6,3 +6,5 @@ require "models/devices/sonar"
 require "models/devices/input"
 
 require "models/devices/actuators"
+
+require "models/devices/auxiliaries"
