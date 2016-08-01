@@ -3,6 +3,7 @@ task :default
 package_name = 'rock'
 begin
     require 'hoe'
+    require 'hoe-yard'
 
     Hoe::plugin :yard
 
